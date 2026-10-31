@@ -1,16 +1,61 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Pallavi Dhuli</h1>
 
-<!--
-**Pallavi567107/pallavi567107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=B.Tech+CSE+Student+at+GMRIT;Java+Developer;Aspiring+Software+Engineer;Building+Ideas+Into+Impact" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://www.linkedin.com/in/pallavi-dhuli-071304381"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/Pallavi_Dhuli/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://www.hackerrank.com/profile/pallaviyadav5671"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👩‍🎓 About Me
+
+- 🎓 B.Tech - Computer Science and Engineering - Section CSE-D, 2nd Year
+- 🏫 GMRIT, Rajam
+- 💻 Passionate about Java, Problem Solving and Building Meaningful Solutions
+- 🤝 Good leader, compassionate and resilient, focused on teamwork & growth
+
+### 💻 Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,c,html,css,mysql,git,github,vscode,idea" />
+</p>
+
+### 🚀 Current Focus
+
+- Strengthening Data Structures & Algorithms
+- Full-Stack Java Development
+- Building Real-World Projects with Java
+
+### 🔗 Coding Profiles
+
+| Platform | Profile | Highlight |
+| :--- | :--- | :--- |
+| **LeetCode** | [Pallavi_Dhuli](https://leetcode.com/u/Pallavi_Dhuli/) | Active Problem Solving |
+| **HackerRank** | [pallaviyadav5671](https://www.hackerrank.com/profile/pallaviyadav5671)| Java Certified |
+
+<p>
+  <img src="https://img.shields.io/badge/HackerRank_3_Star_Java-2EC866?style=flat-square&logo=hackerrank" />
+  <img src="https://img.shields.io/badge/Java_Certified-ED8B00?style=flat-square&logo=openjdk" />
+</p>
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Pallavi567107&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pallavi567107&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pallavi567107&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Pallavi567107&label=Profile+views&color=58A6FF&style=flat" />
+</p>
+
+<p align="center"><i>"Stay curious. Build consistently. Grow fearlessly."</i></p>
