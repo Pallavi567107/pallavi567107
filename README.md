@@ -16,7 +16,7 @@
 
 - 🎓 B.Tech - Computer Science and Engineering - 2nd Year
 - 🏫 GMRIT, Rajam 
-- 💻 Passionate about Java, Problem Solving and Building Meaningful Solutions
+- 💻 Problem Solving and Building Meaningful Solutions
 
 ### 💻 Tech Stack
 
@@ -28,7 +28,7 @@
 
 - Strengthening Data Structures & Algorithms
 - Full-Stack Java Development
-- Building Real-World Projects with Java
+- Building Real-World Projects 
 
 ### 🔗 Coding Profiles
 
