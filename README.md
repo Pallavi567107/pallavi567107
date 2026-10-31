@@ -14,15 +14,14 @@
 
 ### 👩‍🎓 About Me
 
-- 🎓 B.Tech - Computer Science and Engineering - Section CSE-D, 2nd Year
-- 🏫 GMRIT, Rajam
+- 🎓 B.Tech - Computer Science and Engineering - 2nd Year
+- 🏫 GMRIT, Rajam 
 - 💻 Passionate about Java, Problem Solving and Building Meaningful Solutions
-- 🤝 Good leader, compassionate and resilient, focused on teamwork & growth
 
 ### 💻 Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,c,html,css,mysql,git,github,vscode,idea" />
+  <img src="https://skillicons.dev/icons?i=java,python,c,html,mysql,vscode" />
 </p>
 
 ### 🚀 Current Focus
@@ -36,22 +35,11 @@
 | Platform | Profile | Highlight |
 | :--- | :--- | :--- |
 | **LeetCode** | [Pallavi_Dhuli](https://leetcode.com/u/Pallavi_Dhuli/) | Active Problem Solving |
-| **HackerRank** | [pallaviyadav5671](https://www.hackerrank.com/profile/pallaviyadav5671)| Java Certified |
+| **HackerRank** | [pallaviyadav5671](https://www.hackerrank.com/profile/pallaviyadav5671) | Java Certified |
 
 <p>
   <img src="https://img.shields.io/badge/HackerRank_3_Star_Java-2EC866?style=flat-square&logo=hackerrank" />
   <img src="https://img.shields.io/badge/Java_Certified-ED8B00?style=flat-square&logo=openjdk" />
-</p>
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Pallavi567107&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pallavi567107&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pallavi567107&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
